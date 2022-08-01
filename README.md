@@ -6,12 +6,7 @@ Site desenvolvido em um evento (HACKATON), com o tema "Turismo em Itanhaem".
 
 # Fabio-Vini
 
-## Eai familia 👋
-Gosto de resolver problemas utilizando a programação.
-<br />
-Software Developer :computer:
 
-## Cursando Etec - 3º e ultimo módulo
   
 
  
